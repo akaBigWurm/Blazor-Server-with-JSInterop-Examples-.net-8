@@ -1,3 +1,5 @@
+# Blazor Server with Javascript Interop Simple Example in .net 8
+
 ## JavaScript Interoperability (Interop) Guide for Blazor Server
 
 This guide is designed for frontend developers experienced with JavaScript interactivity who are transitioning to Blazor Server. It demonstrates how to implement JavaScript interop in a Blazor Server application to call a `.NET` method (`ProcessText`) from JavaScript. The example code is located at `/Components/Pages/InteropExample.razor`, and no modifications are required to the default Blazor Server 8 project setup, including `Program.cs`.
